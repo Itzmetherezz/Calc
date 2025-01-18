@@ -1,20 +1,37 @@
 <br />
   <h2 align="center">Calc (slang for calculator)</h2>
 
-This is my first project.
-I have tried to make the calculator look neat and colourful to make it stand out.
-It performs the four basic operations.
-It is made on C#
 
-#UPDATE
 
-Added Two new functions.
-SQUARE ROOT AND PERCENT.
 
-Changed the Colours and theme to make it more appealing.
-Rearranged and resized the buttons.
 
-Corrected the alignment of the buttons which were misaligned.
+
+## Overview
+**Calculator USING C#** has been made purely on C# Windows Forms. It is my first project and it is a basic calculator.
+
+## How to Run
+1. Clone the repository or download the script file.
+2. Open the file using visual studio.
+3. Run the build.
+   
+
+## Controls
+- Use your Mouse to click on the buttons and typre the values assigned to button to the calcualtor.
+
+
+## Overview of Steps
+- Made the UI of the calculator in Windows Forms.
+- Assigned the operations to the respective buttons.
+- Made this because it is the simplest project for a beginner.
+
+
+
+# UPDATE
+
+Remade the UI to look more appealing.
+Added the % and square root function.
+
+
 
 
 
